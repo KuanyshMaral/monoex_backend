@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS reviews;
+DROP TABLE IF EXISTS news;
+DROP TABLE IF EXISTS legislations;

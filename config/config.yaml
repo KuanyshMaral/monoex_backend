@@ -1,0 +1,6 @@
+server:
+  port: ${SERVER_PORT}
+
+database:
+  driver: "postgres"
+  url: ${DATABASE_URL}
